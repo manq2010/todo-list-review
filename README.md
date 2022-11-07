@@ -50,6 +50,13 @@ git clone git@github.com:manq2010/to-do-list.git
 - Twitter: [@twitterhandle](https://twitter.com/mancoba_c)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mancobasihlongonyane)
 
+
+👤 **Husniddin Ismoilov**
+
+- GitHub: [@githubhandle](https://github.com/)
+- Twitter: [@twitterhandle](https://twitter.com/)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
